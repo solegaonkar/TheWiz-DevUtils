@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "thewiz37f55be5": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

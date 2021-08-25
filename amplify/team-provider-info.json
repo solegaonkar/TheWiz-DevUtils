@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thewiz-dev-80119-authRole",
+      "UnauthRoleArn": "arn:aws:iam::415731500432:role/amplify-thewiz-dev-80119-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::415731500432:role/amplify-thewiz-dev-80119-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-thewiz-dev-80119-deployment",
+      "UnauthRoleName": "amplify-thewiz-dev-80119-unauthRole",
+      "StackName": "amplify-thewiz-dev-80119",
+      "StackId": "arn:aws:cloudformation:us-east-1:415731500432:stack/amplify-thewiz-dev-80119/a2b28440-057a-11ec-a898-0a8c479d0b73",
+      "AmplifyAppId": "dovxnk87fok2z"
+    },
+    "categories": {
+      "auth": {
+        "thewiz37f55be5": {}
+      }
+    }
+  }
+}
